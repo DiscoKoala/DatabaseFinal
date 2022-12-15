@@ -8,6 +8,7 @@
 <head>
  <link rel="stylesheet" href="Style.css">
  <title>Furredom Friends Adoption Shelter</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <h1><?php echo"Furreedom Friends Adoption Shelter "?></h1>
@@ -29,6 +30,16 @@
   <li><a href="Query7.php" target="_self">Query 7</a></li>
 </ul><br>
 
+<h2>Furry Friend Success Stories</h2><br>
+
+<ins><h3>Miss Posie Keen</h3></ins>
+<img src="Posie.jpg" alt="Posie" width="900" height="650"><br>
+
+<ins><h3>Theo Delaire</h3></ins>
+<img src="Theo.jpg" alt="Theo" width="900" height="1100"><br>
+
+<ins><h3>Namoo Jeong</h3></ins>
+<img src="Namoo.jpg" alt="Namoo" width="900" height="1200"><br>
 
 
 </body>

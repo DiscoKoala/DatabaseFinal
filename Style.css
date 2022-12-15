@@ -1,32 +1,36 @@
 body {
-      	background-color: #FFF7F7;
+    background-color: #FFF7F7;
 }
 h1 {
-    	  text-align: center;
-        font-family: "Helvetica";
-        font-weight: bold;
-        text-transform: uppercase;
+	  text-align: center;
+    font-family: "Helvetica";
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    font-family: "Helvetica";
 }
 h3 {
-        text-align: center;
-        font-family: "Helvetica";
-        font-weight: bold;
+    text-align: center;
+    font-family: "Helvetica";
+    font-weight: bold;
 }
 p {
-   	    font-weight: bold;
-        text-align: center;
-        font-family: "Helvetica";
+  font-weight: bold;
+  text-align: center;
+  font-family: "Helvetica";
 }
 table, th, td{
-        border: 1px solid #696D7D;
-        border-collapse: collapse;
-        table-align: center;
-        font-family: "Helvetica";
-        text-align: center;
+  border: 1px solid #696D7D;
+  border-collapse: collapse;
+  table-align: center;
+  font-family: "Helvetica";
+  text-align: center;
 }
 th, td{
-        background-color: #F0F0F0;
-        padding: 5px;
+  background-color: #F0F0F0;
+  padding: 5px;
 }
 ul {
   list-style-type: none;
@@ -36,7 +40,7 @@ ul {
   background-color: #333;
 }
 li {
-  display:inline-table;
+  display: inline-table;
 }
 li a {
   display: block;
@@ -49,10 +53,14 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
 .center{
-        margin-top: 10;
-        margin-bottom: auto;
-        margin-left: auto;
-        margin-right: auto;
+  margin-top: 10;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
